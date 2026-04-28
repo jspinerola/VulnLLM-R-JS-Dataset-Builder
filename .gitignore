@@ -6,3 +6,4 @@ output.zip
 processed_cvefixes.db-journal
 processed_cvefixes.zip
 .vscode/
+.env
