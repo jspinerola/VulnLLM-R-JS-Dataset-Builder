@@ -1,2 +1,8 @@
 CVEfixes_v1.0.8
 processed_cvefixes.db
+js_vulnllm_dataset.jsonl
+output.csv
+output.zip
+processed_cvefixes.db-journal
+processed_cvefixes.zip
+.vscode/
